@@ -79,9 +79,11 @@ Aşağıda adımları sırasıyla bulabilirsiniz:
    
    **RESIZE_DOWN** :Video akışının boyutunu ikiye böler.
    
-6. Elde edilen işlenmiş görüntüyü [sensor_msgs/CompressedImage](http://docs.ros.org/en/noetic/api/sensor_msgs/html/msg/CompressedImage.html) mesaj türünde **rover_view/compressed** topic'ine yayınlayın.
+6. Elde edilen işlenmiş görüntüyü [sensor_msgs/CompressedImage](http://docs.ros.org/en/noetic/api/sensor_msgs/html/msg/CompressedImage.html) mesaj türünde **/rover_view/compressed** topic'ine yayınlayın.
 
 Bu adımları takip ederek görevinizi tamamlayabilirsiniz. Başarılar dileriz!
+
+https://github.com/itu-rover/iturover_processing_assignment/assets/61627684/51192f8c-9a17-429b-a99c-72d554477d3d
 
 # Ayrıca bakınız
 * https://docs.opencv.org/
