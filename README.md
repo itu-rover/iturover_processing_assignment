@@ -83,7 +83,10 @@ Aşağıda adımları sırasıyla bulabilirsiniz:
 
 Bu adımları takip ederek görevinizi tamamlayabilirsiniz. Başarılar dileriz!
 
-https://github.com/itu-rover/iturover_processing_assignment/assets/61627684/51192f8c-9a17-429b-a99c-72d554477d3d
+
+https://github.com/itu-rover/iturover_processing_assignment/assets/99661459/57722f7b-8e00-47a1-9cb1-2acb91781dcc
+
+
 
 # Ayrıca bakınız
 * https://docs.opencv.org/
