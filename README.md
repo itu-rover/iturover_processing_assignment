@@ -4,7 +4,7 @@
 
 **ITU Rover Görüntü İşleme Görevi**
 
-Bu görevde, ROS kullanarak bir görüntü işleme node'u oluşturmanızı beklemekteyiz. Sizlere sunduğumuz `assignment.bag` dosyasında bulunan **/video_topic/compressed** topic'i üzerinden bir video yayını sağlanmıştır. Ayrıca başlatacağınız **'itu_rover_node'** her 2 saniyede bir bu yayına uygulanacak rastgele bir görüntü işleme tekniğini **/filter** topic'i üzerinden yayınlanmaktadır.
+Bu görevde, ROS kullanarak bir görüntü işleme node'u oluşturmanızı beklemekteyiz. Sizlere sunduğumuz `assignment.bag` dosyasında bulunan **/video_topic/compressed** topic'i üzerinden bir video yayını sağlanmıştır. Ayrıca başlatacağınız **'itu_rover_node'** her 2 saniyede bir bu yayına uygulanacak rastgele bir görüntü işleme tekniği **/filter** topic'i üzerinden yayınlanmaktadır.
 
 Göreviniz, dinlediğiniz görüntü işleme tekniklerini video yayınına uygulamak ve sonucu 'rover_view/compressed' topic'i üzerinden yayınlamaktır.
 # Kurulum
